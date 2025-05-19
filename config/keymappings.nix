@@ -1,4 +1,5 @@
-{self, ...}: {
+{ self, ... }:
+{
   keymaps = [
     # Neo-tree bindings
     {

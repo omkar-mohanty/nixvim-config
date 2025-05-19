@@ -1,4 +1,5 @@
-{ lib, config, ... }: {
+{ lib, config, ... }:
+{
   plugins.trouble = {
     enable = true;
   };
@@ -29,4 +30,3 @@
     }
   ];
 }
-
