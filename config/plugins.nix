@@ -687,7 +687,7 @@
           "<C-e>" = "cmp.mapping.abort()";
           "<C-b>" = "cmp.mapping.scroll_docs(-4)";
           "<C-f>" = "cmp.mapping.scroll_docs(4)";
-          "<C-y>" = "cmp.mapping.complete()";
+          "<C-Space>" = "cmp.mapping.complete()";
           "<CR>" = "cmp.mapping.confirm({ select = true })";
           "<S-CR>" = "cmp.mapping.confirm({ behavior = cmp.ConfirmBehavior.Replace, select = true })";
           "<C-l>" = ''
